@@ -90,26 +90,4 @@ print('common beers: {}'.format(A.intersection(B)))
 print('number of common beers: {}'.format(len(A.intersection(B))))
 
 
-# # df_image = (df_final[['Beer_name', 'Image']]).drop_duplicates()
-# # pickle.dump(df_image,open('Image.pkl','wb'))
-# #
-
-# # #
-
-    # for i in similar_item:
-    #     item= []
-    #     temp_df = df_image[df_image['Beer_name'] == df_beer_features.index[i[0]]]
-    #     item.extend(temp_df['Beer_name'])
-    #     item.extend(temp_df['Image'])
-    #     data.append(item)
-# #
-
-# #
-# # # pickle.dump(df_beer_features,open('df_beer_features.pkl','wb'))
-# # # pickle.dump(similarity_score,open('similarity_score.pkl','wb'))
-# #
-#
-#
-
-
 
