@@ -1,0 +1,143 @@
+body {
+  background: #fafafa;
+  color: #333333;
+  margin-top: 5rem;
+}
+
+
+.header {
+    display: flex;
+    position: sticky;
+    justify-content: space-between;
+    color: #98FB98;
+    background-color: #FFFFFF;
+  }
+  .header h1 {
+    margin: 0;
+    position: sticky;
+    top: 0;
+    color: #800080;
+  }
+  .header nav {
+    margin: 0;
+  }
+
+h2, h3, h4, h5, h6 {
+  color: #454545;
+  margin-top: 5rem;
+}
+
+
+nav {
+    float: right;
+  }
+  nav a {
+    display: inline-block;
+    padding: 8px;
+    margin-right: 8px;
+    color: #800080;
+    text-decoration: none;
+
+  }
+
+.bg-steel {
+  background-color: #5f788a;
+}
+
+.site-header .navbar-nav .nav-link {
+  color: #cbd5db;
+}
+
+.site-header .navbar-nav .nav-link:hover {
+  color: #ffffff;
+}
+
+.site-header .navbar-nav .nav-link.active {
+  font-weight: 500;
+}
+
+.content-section {
+  background: #ffffff;
+  padding: 10px 20px;
+  border: 1px solid #dddddd;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+
+.article-title {
+  color: #FFFFFF;
+}
+
+a.article-title:hover {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.article-content {
+  white-space: pre-line;
+}
+
+.article-img {
+  height: 65px;
+  width: 65px;
+  margin-right: 16px;
+}
+
+.article-metadata {
+  padding-bottom: 1px;
+  margin-bottom: 4px;
+  border-bottom: 1px solid #e3e3e3
+}
+
+.article-metadata a:hover {
+  color: #333;
+  text-decoration: none;
+}
+
+.article-svg {
+  width: 25px;
+  height: 25px;
+  vertical-align: middle;
+}
+
+.account-img {
+  height: 120px;
+  width: 120px;
+  margin-right: 20px;
+  margin-bottom: 16px;
+}
+
+.account-heading {
+  font-size: 2.5rem;
+}
+
+
+
+/* where the magic happens */
+
+
+
+.cards {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 5px;
+}
+
+
+.card{
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  margin: 20px;
+  margin-bottom: 5px;
+  height: 280px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.img {
+  height: 300px;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center center;
+}
