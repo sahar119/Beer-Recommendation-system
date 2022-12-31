@@ -34,4 +34,10 @@ contains:
 
 ### <h3 align="left">Project Demo</h3>
 ---
-![Demo GIF](https://giphy.com/gifs/EN9bkhAk1tKdaK26NW)
+![Demo GIF](https://github.com/Virat199608/Beer-Reccomendation-system/blob/master/beerdemo1.gif)
+
+### <h3 align="left">C'est 'Done'</h3>
+---
+Feel free to mail me for any doubts/query ✉️ viratpatel75@gmail.com
+
+
