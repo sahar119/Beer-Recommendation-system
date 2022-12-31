@@ -4,9 +4,7 @@
 ---
 ### <h3 align="left">Inspiration</h3>
 ---
-By providing personalized recommendations based on analysis of user reviews, the system can help users discover new and interesting beers that they might not have otherwise considered. At the same time, by identifying common words and themes in the reviews, the system can provide valuable insights into the factors that are most important to users when choosing a beer.
-
-These insights could be used by breweries and other stakeholders in the beer industry to better understand and meet the needs and preferences of their customers, which in turn could lead to more informed product development and marketing efforts.
+By providing personalized recommendations based on analysis of user reviews of top Canadian beers, the system can help users discover new and interesting beers from Canada that they might not have otherwise considered. At the same time, by identifying common words and themes in the reviews, the system can provide valuable insights into the factors that are most important to users when choosing a Canadian beer. These insights could be used by Canadian breweries and other stakeholders in the beer industry to better understand and meet the needs and preferences of their customers, which in turn could lead to more informed product development and marketing efforts specifically targeting the Canadian market.
 
 ### <h3 align="left">How does it work</h3>
 ---
